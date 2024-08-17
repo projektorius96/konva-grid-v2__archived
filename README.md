@@ -1,6 +1,6 @@
 # Project name: **konva-grid**
 
-> For now, consider this as a _non-official_ implementation of **responsive grid** for your future **Konva.js** projects
+> For now, consider this as a _non-official_ implementation of **responsive grid** for your future **Konva.js** projects, instead of this [demo](https://konvajs.org/docs/sandbox/Responsive_Canvas.html).
 
 ### Setup
 
